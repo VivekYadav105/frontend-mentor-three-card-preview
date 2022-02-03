@@ -89,6 +89,7 @@ button:hover{
     color: var(--Very-light-gray);
 }
 
+
 @media screen and (min-width:380px) and (max-width:750px){
     body{
         display: flex;
